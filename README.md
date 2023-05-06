@@ -1,2 +1,4 @@
 # Sentiment-Analysis-using-CNN
-Note: Run this notebook on Kaggle or downlaod the relevant dataset from Kaggle.
+Run this notebook on:
+1. Kaggle
+2. Jupyter Notebook (download dataset from Kaggle, path provided in attached ipynb file)
